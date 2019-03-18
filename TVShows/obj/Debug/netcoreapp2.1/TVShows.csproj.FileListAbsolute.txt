@@ -1,0 +1,11 @@
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\bin\Debug\netcoreapp2.1\TVShows.deps.json
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\bin\Debug\netcoreapp2.1\TVShows.runtimeconfig.json
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\bin\Debug\netcoreapp2.1\TVShows.runtimeconfig.dev.json
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\bin\Debug\netcoreapp2.1\TVShows.dll
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\obj\Debug\netcoreapp2.1\TVShows.csprojAssemblyReference.cache
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\obj\Debug\netcoreapp2.1\TVShows.csproj.CoreCompileInputs.cache
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\obj\Debug\netcoreapp2.1\TVShows.AssemblyInfoInputs.cache
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\obj\Debug\netcoreapp2.1\TVShows.AssemblyInfo.cs
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\bin\Debug\netcoreapp2.1\TVShows.pdb
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\obj\Debug\netcoreapp2.1\TVShows.dll
+D:\Универ\3 КУРС\2 СЕМЕСТР\Избранные главы информатики\TVShows\TVShows\obj\Debug\netcoreapp2.1\TVShows.pdb
